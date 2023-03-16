@@ -1,0 +1,14 @@
+:root {
+    --NavigationBG: rgba(119, 166, 115, 0.58);
+    --OverallBG: rgba(119, 165, 103, 0.361);
+    --LinkBG: rgba(176, 40, 40, 0.549);
+    --LinkVisitedBG: rgba(17, 50, 220, 0.988);
+    --ContactBG: rgb(0 0 0 / 27%);
+    --ContactHoverBG: rgba(0, 136, 169, 0.5);
+    --LinkHoverBG: rgb(0 0 255 / 52%);
+    --BackgroundLinksBG: rgb(240, 255, 255);
+    --BackgroundFormBG: rgba(104, 130, 98, 0);
+    --BackgroundSubmitBG: rgba(128, 128, 128, 0.514);
+    --FormBorderBG: rgba(0, 0, 0, 0.50);
+    --ButtonHoverBG: rgb(128, 128, 128);
+}

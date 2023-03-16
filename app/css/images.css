@@ -1,0 +1,30 @@
+:root {
+    --bobcat1: url("../images/bobcat-1.png");
+    --bobcat2: url("../images/bobcat-2.png");
+    --bobcat3: url("../images/bobcat-3.png");
+    --bobcat4: url("../images/bobcat-4.png");
+    --bobcat5: url("../images/bobcat-5.png");
+    --bobcat6: url("../images/bobcat-6.png");
+
+    --grass1: url("../images/grass-1.png");
+    --grass2: url("../images/grass-2.png");
+    --grass3: url("../images/grass-3.png");
+    --grass4: url("../images/grass-4.png");
+    --grass5: url("../images/grass-5.png");
+    --grass6: url("../images/grass-6.png");
+    
+    --road1: url("../images/road-1.png");
+    --road2: url("../images/road-2.png");
+    --road3: url("../images/road-3.png");
+    --road4: url("../images/road-4.png");
+    --road5: url("../images/road-5.png");
+    --road6: url("../images/road-6.png");
+
+    --stump1: url("../images/stump-1.png");
+    --stump2: url("../images/stump-2.png");
+    --stump3: url("../images/stump-3.png");
+    --stump4: url("../images/stump-4.png");
+    --stump5: url("../images/stump-5.png");
+    --stump6: url("../images/stump-6.png");
+
+}
